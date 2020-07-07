@@ -1,0 +1,7 @@
+Flask==1.1.1
+python-telegram-bot==12.4.2
+request==2019.4.13
+selenium==3.141.0
+BeautifulSoup==3.2.2
+pandas==1.0.1
+tabulate==0.8.6
